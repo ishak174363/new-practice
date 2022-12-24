@@ -1,0 +1,40 @@
+.blog{
+    background-color:blueviolet;
+    border: 10px solid green;
+    border-radius: 10px;
+    border-left: 0px;
+    border-right: 10px;
+    margin: 15px 10px 20px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-top: 23px;
+    padding-bottom: 10px;
+    text-align:center;
+}
+.heading{
+    text-align: center;
+}
+.first{
+    color: aqua;
+    background-color: crimson;
+}
+small{
+    color: red;
+}
+h1{
+    color: red;
+}
+
+.start{
+    color: beige;
+    background-color: black;
+}
+.middle{
+color: aliceblue;
+background-color: blue;
+}
+.end{
+    color: bisque;
+    background-color: blueviolet;
+}
