@@ -1,0 +1,36 @@
+.blog2{
+    font-size: 100%;
+    background-color: rgb(109, 106, 109);
+    height: 50%;
+    width: 100%;
+    border: 5px dashed red;
+    border-left: 15px;
+    border-right: 15px;
+    border-top: 15px;
+    border-bottom: 15px;
+    border-radius: 15px;
+    margin: 15px 10px;
+    margin-top:20px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 51px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right:10px;
+}
+h3{
+    text-align: center;
+    font-weight: 1000;
+}
+small{
+    color: red;
+}
+h1{
+    font:bold;
+    background-color: red;
+    text-align: center;
+}
+p{
+    color:aquamarine;
+}
